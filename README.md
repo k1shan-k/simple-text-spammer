@@ -6,7 +6,7 @@
 
 > To use this you must have python3
 
-# installing pre-requisite -
+# installing pre-requisites
 
 `pip3 install -r requirements.txt`
 
