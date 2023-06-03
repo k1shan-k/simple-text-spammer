@@ -4,7 +4,7 @@ import keyboard
 from art import *
 
 tprint("Use with Caution",font="random")
-tprint("Using this script may lead to account ban in some platforums,because they would assume a bot is using the account. So atleast use 2 Seconds of pause \n", font="rnd-small")
+tprint("Using this script may lead to account ban in some platforms,because they would assume a bot is using the account. So atleast use 2 Seconds of pause \n", font="rnd-small")
 msg = input("Enter the massage \n")
 
 n = int(input("How many times ?: "))
